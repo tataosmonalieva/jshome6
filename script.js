@@ -47,6 +47,29 @@
 //console.log(a.join(','))
 
 
+//function toggleCase(inputString) {
+
+    //let result = '';
+
+    //for (let i = 0; i < inputString.length; i++) {
+       // const char = inputString[i];
+
+
+        //if (char === char.toUpperCase()) {
+            //result += char.toLowerCase();
+       // } else {
+        //    result += char.toUpperCase();
+       // }
+    //}
+
+   // return result;
+//}
+
+//const inputString = "КаЖдЫй ОхОтНиК";
+//const toggledString = toggleCase(inputString);
+//console.log(toggledString);
+
+
 
 //const cars = [
    // {
