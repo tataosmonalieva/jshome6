@@ -7,8 +7,14 @@
 //console.log(a.filter(el => el !==0 && el !== false && el !== undefined && el !=='' && el !== null)) 
 
 //Ожидаемый результат: [1, 2, 3, 1, 2] => [1, 2, 3]
-//let a = [1, 2, 3, 1, 2]
-//console.log(a) -
+ //const num = [1, 2, 3, 1, 2]
+ //const b = num.filter((el, index)  => {
+ //return index === num.indexOf(el);
+
+
+//});
+
+//console.log(b)
 
 //Даны два массива: ['a', 'b', 'c'] и [1, 2, 3]. Объедините их вместе.
 //let a =  ['a', 'b', 'c']
